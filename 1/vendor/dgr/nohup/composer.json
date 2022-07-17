@@ -1,0 +1,22 @@
+{
+    "name": "dgr/nohup",
+    "description": "A library to run a command in the background, it will return the process's pid, and get it's is running status anytime in the another process, and can be stoped anytime. It support Windows, Linux and Mac osx.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thrall.chen",
+            "email": "thrall.chen@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "dgr\\nohup\\": "src/"
+        }
+    }
+}
