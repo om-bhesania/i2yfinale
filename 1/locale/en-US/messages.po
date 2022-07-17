@@ -1,0 +1,569 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Repost Pro\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 
+msgid "Missing some of required data."
+msgstr ""
+
+#: 
+msgid "Invalid parameter"
+msgstr ""
+
+#:
+msgid "%s public post"
+msgid_plural "%s public posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#:
+msgid "Changes saved!"
+msgstr ""
+
+#:
+msgid "Instagram user"
+msgstr ""
+
+#:
+msgid "Re-login required!"
+msgstr ""
+
+#:
+msgid "Load More"
+msgstr ""
+
+#:
+msgid "You haven't add any Instagram account yet. Click the button below to add your first account."
+msgstr ""
+
+#:
+msgid "New Account"
+msgstr ""
+
+#:
+msgid "You don't have a permission to add any Instagram account."
+msgstr ""
+
+#:
+msgid "Please select an account from left side list."
+msgstr ""
+
+#:
+msgid "Target & Settings"
+msgstr ""
+
+#:
+msgid "Activity Log"
+msgstr ""
+
+#:
+msgid "Next repost will be %s approximately"
+msgstr ""
+
+#:
+msgid "Repost in progress, this may take no more than 60 seconds"
+msgstr ""
+
+#:
+msgid "Something is wrong on the system"
+msgstr ""
+
+#:
+msgid "System task error"
+msgstr ""
+
+#:
+msgid "Reposted {username}'s {post}"
+msgstr ""
+
+#:
+msgid "Removed at %s"
+msgstr ""
+
+#:
+msgid "Scheduled to remove at %s"
+msgstr ""
+
+#:
+msgid "Failed to remove at %s"
+msgstr ""
+
+#:
+msgid "View Original"
+msgstr ""
+
+#:
+msgid "View Reposted"
+msgstr ""
+
+#:
+msgid "Total %s actions"
+msgstr ""
+
+#:
+msgid "Auto Like activity log for %s is empty"
+msgstr ""
+
+#:
+msgid "Hashtags"
+msgstr ""
+
+#:
+msgid "Places"
+msgstr ""
+
+#:
+msgid "People"
+msgstr ""
+
+#:
+msgid "Search"
+msgstr ""
+
+#:
+msgid "Speed"
+msgstr ""
+
+#:
+msgid "Auto"
+msgstr ""
+
+#:
+msgid "Recommended"
+msgstr ""
+
+#:
+msgid "Very Slow"
+msgstr ""
+
+#:
+msgid "Slow"
+msgstr ""
+
+#:
+msgid "Medium"
+msgstr ""
+
+#:
+msgid "Fast"
+msgstr ""
+
+#:
+msgid "Very Fast"
+msgstr ""
+
+#:
+msgid "Remove after ..."
+msgstr ""
+
+#:
+msgid "Never"
+msgstr ""
+
+#:
+msgid "%s minutes"
+msgstr ""
+
+#:
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#:
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#:
+msgid "Pause actions everyday"
+msgstr ""
+
+#:
+msgid "From"
+msgstr ""
+
+#:
+msgid "To"
+msgstr ""
+
+#:
+msgid "Caption"
+msgstr ""
+
+#:
+msgid "Add your caption"
+msgstr ""
+
+#:
+msgid "Leave empty to repost without a caption."
+msgstr ""
+
+#:
+msgid "You can use following variables in the comments:"
+msgstr ""
+
+#:
+msgid "Original caption"
+msgstr ""
+
+#:
+msgid "Media owner's username"
+msgstr ""
+
+#:
+msgid "Media owner's full name. If user's full name is not set, username will be used."
+msgstr ""
+
+#:
+msgid "Status"
+msgstr ""
+
+#:
+msgid "Deactive"
+msgstr ""
+
+#:
+msgid "Active"
+msgstr ""
+
+#:
+msgid "Save"
+msgstr ""
+
+#:
+msgid "Speeds"
+msgstr ""
+
+#:
+msgid "%s request/day"
+msgid_plural "%s requests/day"
+msgstr[0] ""
+msgstr[1] ""
+
+#:
+msgid "These values indicates maximum amount of the requests per day. They are not exact values. Depending on the server overload and delays between the requests, actual number of the requests might be less than these values."
+msgstr ""
+
+#:
+msgid "High speeds might be risky"
+msgstr ""
+
+#:
+msgid "Developers are not responsible for any issues related to the Instagram accounts."
+msgstr ""
+
+#:
+msgid "Other Settings"
+msgstr ""
+
+#:
+msgid "Enable Random Delays"
+msgstr ""
+
+#:
+msgid "If you enable this option, script will add random delays automatically between each requests."
+msgstr ""
+
+#:
+msgid "Delays could be up to 60 minutes."
+msgstr ""
+
+#:
+msgid "Auto Repost"
+msgstr ""
+
+#:
+msgid "Auto Repost Module Settings"
+msgstr ""
+
+#:
+msgid "Media owner should has a profile picture"
+msgstr ""
+
+#:
+msgid "Select required media post types for the repost or leave blank."
+msgstr ""
+
+#:
+msgid "When empty we will use all media post types for repost."
+msgstr ""
+
+#:
+msgid "Photo posts"
+msgstr ""
+
+#:
+msgid "Video posts"
+msgstr ""
+
+#:
+msgid "Album posts"
+msgstr ""
+
+#:
+msgid "Please don't save task multiple times in a short time period."
+msgstr ""
+
+#:
+msgid "Find & Replace for original post caption"
+msgstr ""
+
+#:
+msgid "Pattern for usertags:"
+msgstr ""
+
+#:
+msgid "Pattern for hashtags:"
+msgstr ""
+
+#:
+msgid "@old_username"
+msgstr ""
+
+#:
+msgid "@new_username"
+msgstr ""
+
+#:
+msgid "#old_hashtag"
+msgstr ""
+
+#:
+msgid "#new_hashtag"
+msgstr ""
+
+#:
+msgid "Your replacements, every replace from new string..."
+msgstr ""
+
+#:
+msgid "Delete post"
+msgstr ""
+
+#:
+msgid "Custom usertags for post"
+msgstr ""
+
+#:
+msgid "Pattern for usertags mention in post:"
+msgstr ""
+
+#:
+msgid "@usertag[x,y]"
+msgstr ""
+
+#:
+msgid "x - horizontal position (from 0.01 to 0.99)."
+msgstr ""
+
+#:
+msgid "y - vertical position (from 0.01 to 0.99)."
+msgstr ""
+
+#:
+msgid "Center point: left top."
+msgstr ""
+
+#:
+msgid "Can be separated with a comma, without or written on a new string."
+msgstr ""
+
+#:
+msgid "Your custom usertags. Example: @apple[0.25,0.5], @instagram[0.5,0.5] ..."
+msgstr ""
+
+#: 
+msgid "Tag owner of media in"
+msgstr ""
+
+#: 
+msgid "Instagram sent us empty response and we automatically re-scheduled repost for the account for 5 minutes"
+msgstr ""
+
+#:
+msgid "We re-scheduled repost for the account for 10 minutes."
+msgstr ""
+
+#:
+msgid "Next repost will be at %s"
+msgstr ""
+
+#:
+msgid "Stories"
+msgstr ""
+
+#:
+msgid "Repost scheduled..."
+msgstr ""
+
+#:
+msgid "Repost in progress..."
+msgstr ""
+
+#:
+msgid "views"
+msgstr ""
+
+#:
+msgid "likes"
+msgstr ""
+
+#:
+msgid "comments"
+msgstr ""
+
+#:
+msgid "Last statistics update at %s"
+msgstr ""
+
+#:
+msgid "Refresh statistics"
+msgstr ""
+
+#:
+msgid "Media types"
+msgstr ""
+
+#:
+msgid "Min. comments"
+msgstr ""
+
+#:
+msgid "Max. comments"
+msgstr ""
+
+#:
+msgid "Min. likes"
+msgstr ""
+
+#:
+msgid "Max. likes"
+msgstr ""
+
+#:
+msgid "Tag owner of media in post"
+msgstr ""
+
+#:
+msgid "Stories stickers (only for photo):"
+msgstr ""
+
+#:
+msgid "Media owner (sticker)"
+msgstr ""
+
+#:
+msgid "Disable 1x1 square crop"
+msgstr ""
+
+#:
+msgid "Original media location (invisible sticker)"
+msgstr ""
+
+#:
+msgid "Custom hashtag (sticker)"
+msgstr ""
+
+#:
+msgid "Your account or custom username (sticker)"
+msgstr ""
+
+#:
+msgid "An error occured during reposting the media."
+msgstr ""
+
+#:
+msgid "Next %s"
+msgstr ""
+
+#:
+msgid "Using this feature you can set a custom time for the repost, default speed algorithm will be ignored."
+msgstr ""
+
+#:
+msgid "When empty we will use the default speed algorithm for the repost."
+msgstr ""
+
+#:
+msgid "Pattern for custom time"
+msgstr ""
+
+#:
+msgid "Time format of template is 24 hours."
+msgstr ""
+
+#:
+msgid "Custom time for the repost"
+msgstr ""
+
+#:
+msgid "Find & Tag users from original post caption"
+msgstr ""
+
+#:
+msgid "All users mentioned in the original post caption will be tagged."
+msgstr ""
+
+#:
+msgid "Usertags blacklist"
+msgstr ""
+
+#:
+msgid "Your usertags blacklist with @username values, every value from a new string..."
+msgstr ""
+
+#:
+msgid "Pattern for custom text replacement:"
+msgstr ""
+
+#:
+msgid "{Text in caption}"
+msgstr ""
+
+#:
+msgid "{New text}"
+msgstr ""
+
+#:
+msgid "Advanced Settings"
+msgstr ""
+
+#:
+msgid "Shuffle saved media in Collections"
+msgstr ""
+
+#:
+msgid "Shuffle feed items (randomize selection of item for repost)"
+msgstr ""
+
+#: 
+msgid "Copy Task Settings"
+msgstr ""
+
+#: 
+msgid "Insert Task Settings"
+msgstr ""
+
+#: 
+msgid "Paste data from clipboard..."
+msgstr ""
+
+#: 
+msgid "Select All"
+msgstr ""
+
+#: 
+msgid "Unselect All"
+msgstr ""
+
+#: 
+msgid "Delete log(s)"
+msgstr ""
